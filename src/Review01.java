@@ -13,7 +13,6 @@ public class Review01 {
 		int result = (int)(price * taxRate);
 		return result;
 
-
 	}
 
 }
